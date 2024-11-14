@@ -1,0 +1,6 @@
+__pycache__/
+# virtual env folder
+envtokyo/
+
+# credentials related files
+.env
